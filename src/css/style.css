@@ -88,6 +88,8 @@ input {
     gap: 20px;
     justify-content: center;
     align-items: baseline;
+
+    width: 320px;
 }
 
 .photo-card {
