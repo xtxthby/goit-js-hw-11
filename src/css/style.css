@@ -12,6 +12,7 @@ body {
     color: #212121;
     line-height: 1.5;
     /* position: relative; */
+    
 }
 
 .header {
@@ -86,10 +87,10 @@ input {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: center;
-    align-items: baseline;
+    /* justify-content: center; */
+    /* align-items: baseline; */
 
-    width: 320px;
+    
 }
 
 .photo-card {
